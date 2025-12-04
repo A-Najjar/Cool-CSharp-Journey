@@ -1,0 +1,14 @@
+C:\work\wklp\cool\firstCoolProject\bin\Debug\net10.0\firstCoolProject.exe
+C:\work\wklp\cool\firstCoolProject\bin\Debug\net10.0\firstCoolProject.deps.json
+C:\work\wklp\cool\firstCoolProject\bin\Debug\net10.0\firstCoolProject.runtimeconfig.json
+C:\work\wklp\cool\firstCoolProject\bin\Debug\net10.0\firstCoolProject.dll
+C:\work\wklp\cool\firstCoolProject\bin\Debug\net10.0\firstCoolProject.pdb
+C:\work\wklp\cool\firstCoolProject\obj\Debug\net10.0\firstCoolProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\work\wklp\cool\firstCoolProject\obj\Debug\net10.0\firstCoolProject.AssemblyInfoInputs.cache
+C:\work\wklp\cool\firstCoolProject\obj\Debug\net10.0\firstCoolProject.AssemblyInfo.cs
+C:\work\wklp\cool\firstCoolProject\obj\Debug\net10.0\firstCoolProject.csproj.CoreCompileInputs.cache
+C:\work\wklp\cool\firstCoolProject\obj\Debug\net10.0\firstCoolProject.dll
+C:\work\wklp\cool\firstCoolProject\obj\Debug\net10.0\refint\firstCoolProject.dll
+C:\work\wklp\cool\firstCoolProject\obj\Debug\net10.0\firstCoolProject.pdb
+C:\work\wklp\cool\firstCoolProject\obj\Debug\net10.0\firstCoolProject.genruntimeconfig.cache
+C:\work\wklp\cool\firstCoolProject\obj\Debug\net10.0\ref\firstCoolProject.dll
